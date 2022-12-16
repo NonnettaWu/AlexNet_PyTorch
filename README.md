@@ -6,9 +6,9 @@ Before running the AlexNet, you need to split the **Flower_Datasets** to Train_D
 
 In `train.py`, you can choose to use the pre_weights of AlexNet which will improve training speed and accuracy or not.
 
-The Flower_Datasets contain daisy, dandelion, roses, sunflowers and tulips, you can download it with [https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz]
+The Flower_Datasets contain daisy, dandelion, roses, sunflowers and tulips, you can download it with [https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz].
 
 Also the pre_weights of AlexNet can be downloaded with
-[https://download.pytorch.org/models/alexnet-owt-4df8aa71.pth]
+[https://download.pytorch.org/models/alexnet-owt-4df8aa71.pth].
 
-**`Keep Learning`**
+**`Keep Learning!`**
